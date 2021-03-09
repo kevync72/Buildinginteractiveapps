@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="color" type="id">color</item>
+    <item name="brands" type="id">brands</item>
+    <item name="find_beer" type="id">find_beer</item>
+</resources>
